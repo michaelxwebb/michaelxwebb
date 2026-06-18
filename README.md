@@ -14,8 +14,8 @@ My goal is to transition into an Identity & Access Management role where I can h
 |-----------------------------------------------|----------------------------|
 | Role Based Access Control (RBAC)          |  <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
 | User & Group Management | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
-| Conditional Access         | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
-| Privileged Identity Managment (PIM)      |<a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
+| Conditional Access        | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
+| Multi-Factor Authentication      |<a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
 | Identity Governance                 | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
 | Administrative Units | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
 
