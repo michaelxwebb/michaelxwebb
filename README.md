@@ -16,9 +16,10 @@ My goal is to transition into an Identity & Access Management role where I can h
 | User & Group Management | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
 | Conditional Access        | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
 | Multi-Factor Authentication      |<a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
-| Identity Governance                 | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
+| Identity Governance                 |<a href="https://github.com/michaelxwebb/Identity-Lifecycle-Governance-Lab">Identity Lifecycle & Governance Lab</a> 
 | Administrative Units | <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>|
-
+| Privileged Identity Management | <a href="https://github.com/michaelxwebb/Identity-Lifecycle-Governance-Lab">Identity Lifecycle & Governance Lab</a>|
+| User Lifecycle Managment (JML) |<a href="https://github.com/michaelxwebb/Identity-Lifecycle-Governance-Lab">Identity Lifecycle & Governance Lab</a> |
 ## Tools
 
 ### Identity & Access Managment
@@ -54,4 +55,4 @@ My goal is to transition into an Identity & Access Management role where I can h
 
 ## Projects
 -  <a href="https://github.com/michaelxwebb/Enterprise-IAM-Lab/tree/main">Enterprise IAM Lab</a>
-- Identity Lifecycle & Governance Lab (In Progress)
+-  <a href="https://github.com/michaelxwebb/Identity-Lifecycle-Governance-Lab">Identity Lifecycle & Governance Lab</a> 
