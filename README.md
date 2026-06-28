@@ -22,7 +22,7 @@ My goal is to transition into an Identity & Access Management role where I can h
 | User Lifecycle Managment (JML) |<a href="https://github.com/michaelxwebb/Identity-Lifecycle-Governance-Lab">Identity Lifecycle & Governance Lab</a> |
 ## Tools
 
-### Identity & Access Managment
+### Identity & Access Management
 <div>
     <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white"/> 
